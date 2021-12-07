@@ -1,2 +1,3 @@
 # Bölüm Sonu Çalışması
-##Patika HTML
+## Patika HTML
+Patika html dersindeki bölüm sonu çalışması
